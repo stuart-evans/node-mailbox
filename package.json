@@ -1,0 +1,15 @@
+{
+  "name": "Mailbox Viewer",
+  "version": "1.0.0",
+  "description": "A way to access mailboxes and emails. Tested with Outlook, Gmail and emailsrvr",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "",
+  "license": "ISC",
+  "dependencies": {
+    "imap": "^0.8.19",
+    "nodemailer": "^4.0.1",
+    "underscore": "^1.8.3"
+  }
+}
